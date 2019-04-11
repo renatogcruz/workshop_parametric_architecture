@@ -17,7 +17,7 @@ After the different types of members became aware of the process and began to pa
  - General Needs;
  - Formulation of the Program;
  - Diagrams;
- - Circulation / Sectors / Volumes; and
+ - Circulation / Sectors / Volumes; 
  - Preliminary Study.
  
 ### From program to space
@@ -28,9 +28,12 @@ The preliminary program was turned into a diagram and roughly drawn in scale usi
 
 It was agreed by the workshop participants that each phase should observe four types of freedom, inspired by the definition of Free Software and outlined by Fuller and Haque (2008):
 
-> The freedom to run the program for any purpose (freedom 0).
-> The freedom to study how the program works and adapt it to your needs (freedom 1).
-> The freedom to redistribute copies so you can help your neighbor (freedom 2).
+> The freedom to run the program for any purpose (freedom 0);
+
+> The freedom to study how the program works and adapt it to your needs (freedom 1);
+
+> The freedom to redistribute copies so you can help your neighbor (freedom 2);
+
 > The freedom to improve the program and release its improvements to the public, so that the whole community benefits (freedom 3).
 
 
