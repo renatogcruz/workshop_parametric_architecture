@@ -26,7 +26,7 @@ The preliminary program was turned into a diagram and roughly drawn in scale usi
 
 ### Deciding on a Design
 
-It was agreed by the workshop participants that each phase should observe four types of freedom, inspired by the definition of Free Software and outlined by Fuller and Haque (2008):
+It was agreed by the workshop participants that each phase should observe four types of freedom, inspired by the definition of Free Software:
 
 > The freedom to run the program for any purpose (freedom 0);
 
